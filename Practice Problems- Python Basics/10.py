@@ -13,3 +13,4 @@ if str.isalpha():
             count_v += 1
 
 print(f"Vowels: {count_v}\nConsonants: {count_c}")
+print(f"{str[::-1]}")
